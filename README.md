@@ -1,7 +1,9 @@
 # Teodora-Serban
 Detectarea coliziunilor
+
 Detectarea coliziunilor este o parte esentiala din tot ceea ce inseamna jocurile moderne. In cadrul acestui proiect, se propune implementarea unui mecanism de detectare a coliziunilor dintre diverse forme geometrice.
-Descriere
+
+Descriere:
 In cadrul acestui proiect vom lucra cu mai multe tipuri de forme geometrice.
 o Cerc
 o Patrat
